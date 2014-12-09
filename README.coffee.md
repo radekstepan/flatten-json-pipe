@@ -11,13 +11,13 @@ Pipe JSON in, get it flattened on the way out.
 Install with [npm](https://www.npmjs.org/).
 
 ```bash
-$ npm install flatten-ldjson -g
+$ npm install flatten-ldjson-pipe -g
 ```
 
 Pipe through passing an optional `delimiter`.
 
 ```bash
-$ echo '{"A":{"name":"Peter"},"B":{"val":[\"a\",\"b\"]}}' | flatten-json '.'
+$ echo '{"A":{"name":"Peter"},"B":{"val":[\"a\",\"b\"]}}' | flatten-json-pipe '.'
 ```
 
 You get the following back:

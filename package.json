@@ -1,7 +1,7 @@
 {
   "name": "flatten-json-pipe",
   "description": "Pipe JSON in, get it flattened on the way out",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Radek Stepan <radeks@redmantech.ca>",
   "license": "AGPL-3.0",
   "dependencies": {
@@ -17,7 +17,7 @@
   },
   "main": "index.js",
   "bin": {
-    "flatten-json": "./bin/run.js"
+    "flatten-json-pipe": "./bin/run.js"
   },
   "scripts": {
     "start": "echo '{\"A\":{\"name\":\"Peter\"},\"B\":{\"val\":[\"a\",\"b\"]}}' | ./bin/run.js",
