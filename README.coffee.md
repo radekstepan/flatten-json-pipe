@@ -11,7 +11,7 @@ Pipe JSON in, get it flattened on the way out.
 Install with [npm](https://www.npmjs.org/).
 
 ```bash
-$ npm install flatten-ldjson-pipe -g
+$ npm install flatten-json-pipe -g
 ```
 
 Pipe through passing an optional `delimiter`.
