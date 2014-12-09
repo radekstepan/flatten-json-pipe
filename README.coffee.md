@@ -1,9 +1,9 @@
-#flatten-json
+#flatten-json-pipe
 
 Pipe JSON in, get it flattened on the way out.
 
 ![Build Status](http://img.shields.io/codeship/???.svg?style=flat)
-[![Dependencies](http://img.shields.io/david/radekstepan/flatten-json.svg?style=flat)](https://david-dm.org/radekstepan/flatten-json)
+[![Dependencies](http://img.shields.io/david/radekstepan/flatten-json-pipe.svg?style=flat)](https://david-dm.org/radekstepan/flatten-json-pipe)
 [![License](http://img.shields.io/badge/license-AGPL--3.0-red.svg?style=flat)](LICENSE)
 
 ##Run
